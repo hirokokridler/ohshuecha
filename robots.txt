@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://totheiluja.nicarali.com/sitemap.xml
